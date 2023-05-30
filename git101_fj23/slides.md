@@ -6,11 +6,24 @@ headingDivider: 2
 footer: TECoding
 ---
 
+## Comenzamos a las 13:10
+
 # `git101`
 
 Taller introductorio a control de versiones con **Git y GitHub**
 
 ![Tecoding bg left width:75%](./../img/tecoding/logo/bgdark.png)
+
+## Quién soy
+**Han Rodríguez · Rody**
+
+ITC - 6º semestre
+
+- Investigación IA en Tec
+- PE Fellow en MLH
+- SWE Intern en Intel
+
+![Tecoding bg right width:75%](./../img/git101/exp.png)
 
 ## Situación
 
@@ -226,7 +239,7 @@ Hacer una contribución a un repositorio colaborativo
 ## Pasos
 1. Enviar tu usuario o correo de GitHub por el chat
 2. `git clone` - clonar el repositorio
-    - [<url>](#pasos-3)
+    - [github.com/TECoding/2023-05-30-workshop-git101](https://github.com/TECoding/2023-05-30-workshop-git101)
 3. `git pull` - descargar últimos cambios
 4. Crear un archivo de texto con tus iniciales de nombre
 5. Subir tu archivo
