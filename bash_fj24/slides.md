@@ -47,8 +47,9 @@ Taller de **bash scripting**
 ---
 
 Verificar que estemos en el directorio de nuestra cuenta
-/Users/username/
-/mnt/c/Users/username/
+
+Windows WSL: `/mnt/c/Users/username/`
+macOS: `/Users/username/`
 
 ## Comandos
 
