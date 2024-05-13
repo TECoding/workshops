@@ -34,17 +34,11 @@ Hacerla disponible a los usuarios a través de internet
 
 ## ¿Qué haremos hoy?
 
-0. Revisar la aplicación que desplegaremos
-1. Reclamar créditos de DigitalOcean a través de GitHub
+0. Reclamar créditos de DigitalOcean a través de GitHub
+1. Revisar la aplicación que desplegaremos
 2. Crear una máquina virtual en DigitalOcean
 3. Descargar el repositorio de GitHub
 4. Desplegar la aplicación ☁️
-
-## Aplicación de prueba
-
-Una página web sencilla en HTML y CSS montada en un servidor de la librería Flask de Python
-
-[github.com/tecoding/test-app](https://github.com/tecoding/test-app)
 
 ## Créditos de DigitalOcean
 
@@ -60,6 +54,12 @@ Una página web sencilla en HTML y CSS montada en un servidor de la librería Fl
 Reclamar 200 USD en créditos de DigitalOcean a través del GitHub Student Developer Pack: [education.github.com/pack](https://education.github.com/pack)
 
 - En caso de no tener cuenta válida de estudiante, es necesario ingresar datos bancarios en DigitalOcean. Siguiendo las instrucciones de este taller, el cargo será menor a 1 MXN.
+
+## Aplicación de prueba
+
+Una página web sencilla en HTML y CSS montada en un servidor de la librería Flask de Python
+
+[github.com/tecoding/test-app](https://github.com/tecoding/test-app)
 
 ## Crear una máquina virtual
 
