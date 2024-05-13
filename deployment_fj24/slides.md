@@ -116,7 +116,7 @@ pwd # /root/test-app
 ./.env/bin/python -m flask run
 ```
 
-¿Qué sucede?
+¿Qué sucede al acceder a `ipv4_address:3601`?
 
 ## Ejecutar la aplicación
 
@@ -124,7 +124,7 @@ pwd # /root/test-app
 ./.env/bin/python -m flask run --host 0.0.0.0
 ```
 
-¿Qué sucede?
+¿Qué sucede al acceder a `ipv4_address:3601`?
 
 ## Ejecutar la aplicación
 
